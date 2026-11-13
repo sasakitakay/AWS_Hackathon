@@ -1,0 +1,44 @@
+{
+  "alarms": [
+    {
+      "alarmId": "ALM-00001",
+      "alarmName": "温度異常",
+      "alarmLevel": 3,
+      "targetDeviceId": "関西・アバンザCER1-A",
+      "occurredAt": "2026-11-05T09:12:30+09:00",
+      "status": "active"
+    },
+    {
+      "alarmId": "ALM-00002",
+      "alarmName": "通信断",
+      "alarmLevel": 2,
+      "targetDeviceId": "関西・COM京都南RR2-A",
+      "occurredAt": "2026-11-05T09:45:10+09:00",
+      "status": "active"
+    },
+    {
+      "alarmId": "ALM-00003",
+      "alarmName": "電源電圧低下",
+      "alarmLevel": 1,
+      "targetDeviceId": "アバンザSAS2-01-A_アバンザCER1-A01",
+      "occurredAt": "2026-11-05T08:30:00+09:00",
+      "status": "active"
+    },
+    {
+      "alarmId": "ALM-00004",
+      "alarmName": "ファン回転数低下",
+      "alarmLevel": 2,
+      "targetDeviceId": "関西・アバンザCER1-A",
+      "occurredAt": "2026-11-05T10:05:47+09:00",
+      "status": "recovered"
+    },
+    {
+      "alarmId": "ALM-00005",
+      "alarmName": "電源電圧低下",
+      "alarmLevel": 1,
+      "targetDeviceId": "関西・谷町ビルCER1-B",
+      "occurredAt": "2026-11-05T07:50:00+09:00",
+      "status": "recovered"
+    }
+  ]
+}
